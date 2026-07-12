@@ -1,1 +1,9 @@
 # Solutions to LeetCode problems in Python and SQL for coding interview preparation and problem-solving practice.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
