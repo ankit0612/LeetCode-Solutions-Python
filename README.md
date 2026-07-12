@@ -1,2 +1,1 @@
-# https-github.com-ankit0612-LeetCode-Solutions-Python
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# Solutions to LeetCode problems in Python and SQL for coding interview preparation and problem-solving practice.
