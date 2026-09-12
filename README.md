@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0001-two-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,9 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
