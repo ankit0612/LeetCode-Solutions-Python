@@ -4,7 +4,7 @@ class Solution:
         right = len(s) -1
         vowels = set('aeiouAEIOU')
         newString = list(s)
-        #travers until the length of string-> 
+        #traverse until the length of string-> 
         while left < right:
             # if s[left] -> s[0] is not a vawel then move forward from left side (soimething like current is s[0] ->s[1] -> s[2] and so on)
             if s[left] not in vowels:
