@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0001-two-sum) |
+| [0739-daily-temperatures](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
