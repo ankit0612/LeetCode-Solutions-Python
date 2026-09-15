@@ -26,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0844-backspace-string-compare) |
@@ -43,9 +44,14 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0844-backspace-string-compare) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
