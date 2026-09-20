@@ -34,4 +34,7 @@ class Solution:
                     
             return last
     
-        return [firstElement(), lastElement()]
+        first = firstElement()
+        last = lastElement()
+
+        return [first, last]
