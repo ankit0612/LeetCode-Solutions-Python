@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0035-search-insert-position) |
 | [0739-daily-temperatures](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0739-daily-temperatures) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
