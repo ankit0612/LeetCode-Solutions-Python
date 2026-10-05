@@ -17,6 +17,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -76,4 +77,8 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
