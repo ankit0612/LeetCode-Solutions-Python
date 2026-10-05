@@ -20,6 +20,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0977-squares-of-a-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,4 +82,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankit0612/LeetCode-Solutions-Python/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
